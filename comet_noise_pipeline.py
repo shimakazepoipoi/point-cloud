@@ -16,7 +16,7 @@ import comet
 import scene_context_noise
 
 
-DEFAULT_INPUT_FILE = r"C:\Users\njzy1\Desktop\data\input_file\test\test1.las"
+DEFAULT_INPUT_FILE = r"C:\Users\njzy1\Desktop\data\input_file\test\240907_171400.las"
 DEFAULT_FIRST_COMET_OUTPUT_FILE = r"C:\Users\njzy1\Desktop\data\result_first_comet_clean.las"
 DEFAULT_OUTPUT_FILE = r"C:\Users\njzy1\Desktop\data\result_pipeline.las"
 
